@@ -1,4 +1,4 @@
-# Automated Customer Support System
+# Automated Customer Support System using Natural Language Processing
 
 ## Overview
 This project is an automated customer support system that uses Natural Language Processing (NLP) and Machine Learning to handle and respond to customer inquiries in real-time. The system is designed to understand customer queries, provide relevant information, and escalate issues to human agents when necessary.

@@ -1,4 +1,3 @@
-```markdown
 # Automated Customer Support System
 
 ## Overview

@@ -1,5 +1,3 @@
-Sure! Here's a sample `README.md` file for your automated customer support system project:
-
 ```markdown
 # Automated Customer Support System
 
